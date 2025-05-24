@@ -27,5 +27,5 @@ def conectar_mysql():
             conexion.close()
             print("Conexión cerrada")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     conectar_mysql()
