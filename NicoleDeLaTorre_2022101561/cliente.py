@@ -20,7 +20,7 @@ def llamarServicioCliente():
 def inicializarVariables(ci):
     global codRes, menRes, accion
     
-    # Base de datos simulada de clientes registrados
+    # clientes registrados
     clientes_registrados = [
         "4133266",
         "1234567", 
