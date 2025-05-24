@@ -1,6 +1,6 @@
 clientes = {
-    "6748467": {
-        "ci": "6748467",
+    "5282102": {
+        "ci": "5282102",
         "accion": "Success",
         "codRes": "SIN_ERROR",
         "menRes": "OK"
